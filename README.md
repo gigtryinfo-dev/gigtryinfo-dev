@@ -1,6 +1,6 @@
 # GigTry — Autonomous AI Tools Platform
 
-**Live site: [https://www.gigtry.com](https://www.gigtry.com)**
+**Live site: [www.gigtry.com](https://www.gigtry.com)**
 
 GigTry is a self-running AI tools marketplace: 89 production-grade AI tools (text, image, video, code, audio, productivity) across 4,450+ localized city landing pages, served on a 100% free-tier serverless stack ($0/month infrastructure).
 
